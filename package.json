@@ -1,0 +1,19 @@
+{
+    "id": "sanshui-fireworks",
+    "name": "canvas中奖礼花",
+    "version": "1.1.0",
+    "description": "该效果基于Canvas实现，巧妙地运用了canvas绘图的特性，并加入了物理力作用的模拟，使整体效果",
+    "keywords": [
+        "礼花",
+        "特效",
+        "中奖",
+        "彩带",
+        "ribbon"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
